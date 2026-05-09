@@ -1,0 +1,23 @@
+# Carpeta de outputs generados (datos y análisis)
+output/
+
+# Entorno virtual
+.venv/
+env/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Variables de entorno (API keys)
+.env
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
